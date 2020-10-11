@@ -1,0 +1,25 @@
+{
+    "Employees": [
+        {
+            "firstName": "ves",
+            "lastName": "johnat",
+            "annual_salary": 25000,
+            "years_employed": 2,
+            "emailAddress": "vesjohn@gmail.com"
+        },
+        {
+            "firstName": "Neil",
+            "lastName": "Irani",
+            "annual_salary": 26000,
+            "years_employed": 5,
+            "emailAddress": "neilrirani@gmail.com"
+        },
+        {
+            "firstName": "johnathon",
+            "lastName": "vasia",
+            "annual_salary": 230000,
+            "years_employed": 3,
+            "emailAddress": "vasiajohnathon@gmail.com"
+        }
+    ]
+}
